@@ -1,0 +1,3 @@
+When we write programs, we sometimes don’t know how much memory we’ll need upfront.
+Static memory allocation (like just creating a fixed array size) is good if we know exactly how much we need,
+but it’s limiting if:
